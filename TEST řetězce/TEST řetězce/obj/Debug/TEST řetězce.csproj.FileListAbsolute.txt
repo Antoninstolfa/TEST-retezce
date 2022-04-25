@@ -1,0 +1,10 @@
+G:\programování\C Sharp\TEST řetězce\TEST řetězce\bin\Debug\TEST řetězce.exe.config
+G:\programování\C Sharp\TEST řetězce\TEST řetězce\bin\Debug\TEST řetězce.exe
+G:\programování\C Sharp\TEST řetězce\TEST řetězce\bin\Debug\TEST řetězce.pdb
+G:\programování\C Sharp\TEST řetězce\TEST řetězce\obj\Debug\TEST řetězce.csprojAssemblyReference.cache
+G:\programování\C Sharp\TEST řetězce\TEST řetězce\obj\Debug\TEST_řetězce.Form1.resources
+G:\programování\C Sharp\TEST řetězce\TEST řetězce\obj\Debug\TEST_řetězce.Properties.Resources.resources
+G:\programování\C Sharp\TEST řetězce\TEST řetězce\obj\Debug\TEST řetězce.csproj.GenerateResource.cache
+G:\programování\C Sharp\TEST řetězce\TEST řetězce\obj\Debug\TEST řetězce.csproj.CoreCompileInputs.cache
+G:\programování\C Sharp\TEST řetězce\TEST řetězce\obj\Debug\TEST řetězce.exe
+G:\programování\C Sharp\TEST řetězce\TEST řetězce\obj\Debug\TEST řetězce.pdb
